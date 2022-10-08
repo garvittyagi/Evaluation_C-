@@ -1,0 +1,15 @@
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.csproj.AssemblyReference.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.AssemblyInfoInputs.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.AssemblyInfo.cs
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.csproj.CoreCompileInputs.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\bin\Debug\net6.0\Eval_Q9.exe
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\bin\Debug\net6.0\Eval_Q9.deps.json
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\bin\Debug\net6.0\Eval_Q9.runtimeconfig.json
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\bin\Debug\net6.0\Eval_Q9.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\bin\Debug\net6.0\Eval_Q9.pdb
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\refint\Eval_Q9.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.pdb
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\Eval_Q9.genruntimeconfig.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q9\Eval_Q9\obj\Debug\net6.0\ref\Eval_Q9.dll

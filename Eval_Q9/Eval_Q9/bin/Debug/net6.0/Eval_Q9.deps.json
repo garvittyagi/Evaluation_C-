@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Eval_Q9/1.0.0": {
+        "runtime": {
+          "Eval_Q9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eval_Q9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
