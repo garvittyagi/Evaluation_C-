@@ -1,0 +1,15 @@
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\bin\Debug\net6.0\Eval_Q7.exe
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\bin\Debug\net6.0\Eval_Q7.deps.json
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\bin\Debug\net6.0\Eval_Q7.runtimeconfig.json
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\bin\Debug\net6.0\Eval_Q7.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\bin\Debug\net6.0\Eval_Q7.pdb
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.csproj.AssemblyReference.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.AssemblyInfoInputs.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.AssemblyInfo.cs
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.csproj.CoreCompileInputs.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\refint\Eval_Q7.dll
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.pdb
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\Eval_Q7.genruntimeconfig.cache
+C:\Users\tyagi.garvit\source\repos\Eval_Q7\Eval_Q7\obj\Debug\net6.0\ref\Eval_Q7.dll
